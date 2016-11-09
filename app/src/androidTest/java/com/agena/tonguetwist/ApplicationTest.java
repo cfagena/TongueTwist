@@ -1,4 +1,4 @@
-package agena.com.tonguetwist;
+package com.agena.tonguetwist;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
